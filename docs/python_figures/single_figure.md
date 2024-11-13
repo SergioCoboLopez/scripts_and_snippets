@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A single figure
-parent: python_figures
+parent: python figures
 nav_order: 1
 ---
 
