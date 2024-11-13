@@ -1,5 +1,5 @@
 ---
-title: Home
+title: scripts and snippets
 layout: home
 ---
 
